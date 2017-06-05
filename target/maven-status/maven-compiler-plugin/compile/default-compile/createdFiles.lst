@@ -1,0 +1,5 @@
+entity\TempEnt.class
+entity\TempEnt_.class
+rest\TempResource.class
+facade\Facade.class
+rest\ApplicationConfig.class
