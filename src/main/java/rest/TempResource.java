@@ -30,7 +30,7 @@ public class TempResource {
     @GET
     @Produces(MediaType.APPLICATION_JSON)
     public String getJson() {
-        TempEnt te = new TempEnt(85, "dav");
+        TempEnt te = new TempEnt("dav");
         facade.saveTemp(te);
         return gson.toJson(te);
     }

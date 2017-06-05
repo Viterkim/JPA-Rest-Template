@@ -21,8 +21,7 @@ public class TempEnt implements Serializable {
         
     }
     
-    public TempEnt(int id, String text){
-        this.id = id;
+    public TempEnt(String text){
         this.text = text;
     }
 

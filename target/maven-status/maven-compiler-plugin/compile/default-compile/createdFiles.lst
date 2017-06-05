@@ -1,5 +1,8 @@
+cors\CorsRequestFilter.class
 entity\TempEnt.class
 entity\TempEnt_.class
+cors\CorsResponseFilter.class
 rest\TempResource.class
-facade\Facade.class
 rest\ApplicationConfig.class
+facade\Facade.class
+.netbeans_automatic_build
